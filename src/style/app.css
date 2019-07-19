@@ -1,3 +1,7 @@
-#content{
-    margin-top: 55px;
+#content {
+  margin-top: 55px;
+}
+
+.noPadding {
+  padding: 0em;
 }
