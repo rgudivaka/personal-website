@@ -5,14 +5,14 @@ import TopNav from "./Components/Navbar/TopNav";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Body from "./Components/Body/Body";
+import Splash from "./Components/Splash/Splash";
 const App = () => {
   return (
     <Container bsPrefix="noPadding container" fluid>
       <Row noGutters>
         <Col lg={true}>
           <TopNav />
-          <Body />
+          <Splash />
         </Col>
       </Row>
     </Container>

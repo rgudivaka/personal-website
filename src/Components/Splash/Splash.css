@@ -1,0 +1,23 @@
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.profileImage {
+  width: 45%;
+}
+
+.splashPage {
+  height: 78.7vh;
+}
+
+.background {
+  background-image: url("https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+  margin: 0vh;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.white-text {
+  color: white;
+}

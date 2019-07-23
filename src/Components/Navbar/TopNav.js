@@ -12,7 +12,7 @@ import Container from "react-bootstrap/Container";
 class TopNav extends React.Component {
   render() {
     return (
-      <Navbar bg="light" variant="light" fixed="top">
+      <Navbar bg="light" variant="light" sticky="top">
         <Container>
           <Navbar.Brand href="#home">Rishi.</Navbar.Brand>
           <Nav className="justify-content-end">
